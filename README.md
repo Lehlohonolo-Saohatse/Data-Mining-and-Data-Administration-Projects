@@ -6,9 +6,9 @@ A data mining project completed for the ITDAA4 (Data Mining) module, covering da
 
 The notebook works through two related student performance datasets, progressing from data cleaning through unsupervised and supervised learning:
 
-1. **Exploratory Analysis & Clustering** — `student_performance.csv`
-2. **Predictive Classification** — `ai_impact_student_performance_dataset.csv`
-3. **SQL Queries** — a set of queries against a `Student_Performance` table
+1. **Exploratory Analysis & Clustering** - `student_performance.csv`
+2. **Predictive Classification** - `ai_impact_student_performance_dataset.csv`
+3. **SQL Queries** - a set of queries against a `Student_Performance` table
 
 ## 1. Exploratory Analysis & Clustering
 
